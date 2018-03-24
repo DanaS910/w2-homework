@@ -3,3 +3,14 @@ body {
 }
 
 /* CODE GOES BELOW */
+.container{
+  display:flex;
+justify-content: center;
+}
+.search{
+  display: inline-block;
+  margin-left: 100px;
+  border: 3px ridge grey;
+  width: 500px;
+  height: 30px;
+}
